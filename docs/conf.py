@@ -4,7 +4,7 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'Quicken Answer'
+project = 'New Project'
 copyright = '2025'
 author = 'Carol Berg'
 
