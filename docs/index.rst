@@ -5,18 +5,8 @@ If you have been managing your personal finances with Quicken, you already know 
 
 .. raw:: html
 
-   <div style="margin:20px 0;">
-      <a href="https://quickendesk.hostlink.click" target="_self"
-         style="background-color:#2c7be5; 
-                color:#ffffff; 
-                padding:12px 24px; 
-                text-decoration:none; 
-                border-radius:6px; 
-                font-size:16px; 
-                font-weight:bold; 
-                display:inline-block;">
-         Get Started with Quicken
-      </a>
+   <div style="text-align:center;">
+       <a href="https://quickendesk.vercel.app" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Quicken</a>
    </div>
 
 Why Users Need to Reinstall Quicken
